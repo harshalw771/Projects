@@ -1,0 +1,16 @@
+.navabar{
+    padding: 5px;
+    background-color:rgba(121, 206, 109, 0.5);
+    
+    color:  #ffffff; 
+}
+.code{
+    color: black;
+}
+.text{
+    color:blueviolet;
+
+}
+.nav{
+    color: aqua;
+}

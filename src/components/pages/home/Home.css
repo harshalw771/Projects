@@ -1,0 +1,45 @@
+.h2{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 43px;
+    color:black;
+    text-size-adjust: 1.5.58;
+}
+.c {
+    text-align: center;
+    font-size: 25.5px;
+     -moz-text-size-adjust: auto;
+     
+}
+.img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 40;
+}
+.start{
+    text-align:initial;
+ color: rgb(74, 173, 140);
+ -moz-text-size-adjust: auto;
+}
+.whether{
+    text-align: initial;
+    color: black;
+    -moz-text-size-adjust: auto;
+}
+.get{
+    text-align:initial;
+    color: rgb(74, 173, 140);
+    font-size: 25.5px;
+}
+
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 30;
+    border-radius: 8px;
+  
+}
